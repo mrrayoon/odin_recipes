@@ -1,0 +1,17 @@
+.main-header {
+  width: 300px;
+  height: auto;
+  background-color: red;
+  color: yellow;
+}
+
+.recipe-list {
+  width: 300px;
+  background-color: red;
+  color: yellow;
+  font-size: 22px;
+}
+
+a:link, a:visited {
+  color: yellow;
+}
